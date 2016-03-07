@@ -1,0 +1,28 @@
+name: Consortium for the Improvement in Quality and Productivity in Clinical Research2
+favicon: null
+layout_spectrum: 0.0411299760453403
+typography_spectrum: 0.5246587379369885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.09080538060516119
+  lightness: 0.427032764069736
+  saturation: 0.18966340366750956
+  rhythmicContrast: 0.6207313113845885
+purpose: []
